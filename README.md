@@ -19,17 +19,19 @@ To secure a higher position where I can effectively contribute my skills and abi
   - Board of Secondary Education (80%)
 
 ## Technical Skills
+Front end : HTML,CSS,JAVASCRIPT,BOOTSTRAP
+Backend : Python,Node.js,Express
+Database: SQLite
 - Able to build Static, Dynamic, and Responsive websites using HTML, CSS, Bootstrap, JavaScript.
 - Proficient in writing Python code.
 - OOPS (basics).
 - Able to perform queries on databases using SQL.
 - Building APIs, handling HTTP requests, and Authentication using Node.js and Express.
+## Skills
 - Good communication skills and organizational skills.
-- Passionate about learning new skills.
+- Passionate about learning new Technologies.
 - Adaptability.
 - Self-motivated and dedicated.
-
-## Skills
 
 ## Projects
 
