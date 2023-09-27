@@ -49,7 +49,7 @@ To secure a higher position where I can effectively contribute my skills and abi
 - Technologies used: HTML, CSS, JS, REST API Calls, Bootstrap
 
 ## Achievements
-- Diploma: DR. B.R Ambedkar Award for meritorious SC/ST Student.
+- Diploma: DR. B.R Ambedkar Award for meritorious Student.
 - B.Tech: Certificate of Academic Excellence.
 - Young Engineer Award.
 
